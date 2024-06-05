@@ -1,4 +1,4 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2309.11268-b31b1b.svg)](https://arxiv.org/abs/2402.12185)
+[![arXiv](https://img.shields.io/badge/arXiv-2309.11268-b31b1b.svg)](https://arxiv.org/abs/)
 [![GitHub issues](https://img.shields.io/github/issues/UniModal4Reasoning/DocGenome)](https://github.com/UniModal4Reasoning/DocGenome/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/UniModal4Reasoning/DocGenome/pulls)
 

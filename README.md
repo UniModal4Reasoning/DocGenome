@@ -17,11 +17,11 @@ Besides, based on DocGenome, we conduct extensive experiments to demonstrate the
 
 - [2024/6/15] 🔥 Our paper entitled "DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Models" has been released in arXiv [Link]()
 - [2024/6/6] 🔥 We have released the DocGenome benchmark, includes 8 subsets as follows: 
-    - [docgenome-train-000.tar.gz]()
+    - [docgenome-train-000.tar.gz](https://drive.google.com/file/d/1p6o6naxPgWLvfmBIvmVionBv4ygSV5Sy/view?usp=drive_link)
     - [docgenome-train-001.tar.gz](https://drive.google.com/file/d/16xTMiZb7E-VPUdIU32mA3qNeuZIoIJ-9/view?usp=drive_link)
     - [docgenome-train-002.tar.gz](https://drive.google.com/file/d/1qW64JRqlFzkx1wwMwo8vdsyTUcetH_H2/view?usp=drive_link)
-    - [docgenome-train-003.tar.gz]()
-    - [docgenome-train-004.tar.gz]()
+    - [docgenome-train-003.tar.gz](https://drive.google.com/file/d/1JlgHou0JchCn8F4Dspb22YMQRkgHm1dG/view?usp=drive_link)
+    - [docgenome-train-004.tar.gz](https://drive.google.com/file/d/1XEuAz1tlo1jzBYk7scSBPbVsf1KqjN6c/view?usp=drive_link)
     - [docgenome-train-005.tar.gz](https://drive.google.com/file/d/1Fz4f9YBRG7Ro7b1uovEKl2pfyizFIq-z/view?usp=drive_link)
     - [docgenome-train-006.tar.gz]()
     - [docgenome-train-007.tar.gz]()
@@ -59,11 +59,11 @@ We provide 8 subsets of DocGenome-train for downloading:
 <details>
 <summary> Data Download</summary>
 
- - [docgenome-train-000.tar.gz]()
+- [docgenome-train-000.tar.gz](https://drive.google.com/file/d/1p6o6naxPgWLvfmBIvmVionBv4ygSV5Sy/view?usp=drive_link)
 - [docgenome-train-001.tar.gz](https://drive.google.com/file/d/16xTMiZb7E-VPUdIU32mA3qNeuZIoIJ-9/view?usp=drive_link)
 - [docgenome-train-002.tar.gz](https://drive.google.com/file/d/1qW64JRqlFzkx1wwMwo8vdsyTUcetH_H2/view?usp=drive_link)
-- [docgenome-train-003.tar.gz]()
-- [docgenome-train-004.tar.gz]()
+- [docgenome-train-003.tar.gz](https://drive.google.com/file/d/1JlgHou0JchCn8F4Dspb22YMQRkgHm1dG/view?usp=drive_link)
+- [docgenome-train-004.tar.gz](https://drive.google.com/file/d/1XEuAz1tlo1jzBYk7scSBPbVsf1KqjN6c/view?usp=drive_link)
 - [docgenome-train-005.tar.gz](https://drive.google.com/file/d/1Fz4f9YBRG7Ro7b1uovEKl2pfyizFIq-z/view?usp=drive_link)
 - [docgenome-train-006.tar.gz]()
 - [docgenome-train-007.tar.gz]()

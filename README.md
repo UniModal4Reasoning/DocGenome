@@ -14,7 +14,7 @@ Scientific documents record research findings and valuable human knowledge, comp
 Besides, based on DocGenome, we conduct extensive experiments to demonstrate the advantages of DocGenome and objectively evaluate the performance of current large models on our benchmark.
 
 ## Release
-
+- **We will soon provide support for dataset downloads on other platforms**, such as [Huggingface](https://huggingface.co/datasets/U4R/DocGenome). Thank you all for your support of DocGenome.
 - [2024/6/15] 🔥 Our paper entitled "DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Models" has been released in arXiv [Link]()
 - [2024/6/6] 🔥 We have released the DocGenome benchmark, includes 8 subsets as follows: 
     - [docgenome-train-000.tar.gz](https://drive.google.com/file/d/1p6o6naxPgWLvfmBIvmVionBv4ygSV5Sy/view?usp=drive_link)

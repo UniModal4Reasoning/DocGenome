@@ -4,16 +4,16 @@
 
 # DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Language Models
 
-Scientific documents record research findings and valuable human knowledge, comprising a vast corpus of high-quality data. Thus, leveraging multi-modality data extracted from these documents and assessing large models' abilities to handle scientific document-oriented tasks is meaningful. Despite promising advancements, large models still perform poorly on multi-page scientific document extraction and understanding tasks, and their capacity to process within-document data formats such as charts and equations remains under-explored. To address these issues, we present DocGenome, a structured document dataset constructed by annotating 500K scientific documents from 153 disciplines in the arXiv open-access community, using our custom auto-labeling pipeline. DocGenome features four characteristics: 
+We present DocGenome, a structured document dataset constructed by annotating 500K scientific documents from 153 disciplines in the arXiv open-access community, using our custom auto-labeling pipeline DocParser. DocGenome features four characteristics:
 
 - 1) Completeness: It is the first dataset to structure data from all modalities including 13 layout attributes along with their \LaTeX\ source codes. 
 - 2) Logicality: It provides 6 logical relationships between different entities within each scientific document. 
 - 3) Diversity: It covers various document-oriented tasks, including document classification, visual grounding, document layout detection, document transformation, open-ended single-page QA and multi-page QA.  
 - 4) Correctness: It undergoes rigorous quality control checks conducted by a specialized team. 
 
-Besides, based on DocGenome, we conduct extensive experiments to demonstrate the advantages of DocGenome and objectively evaluate the performance of current large models on our benchmark.
 
 ## Release
+- [2024/8/27] Add the tutorials on how to use the [DocGenome dataset](https://github.com/UniModal4Reasoning/DocGenome/blob/main/tutorials/tutorial.ipynb).
 - [2024/8/7] Add the detalied explanation about the different file structures in DocGenome.[Dataset_Details_README](Dataset_Details_README.md)
 - [2024/7/23] We have supported **TestSet** downloads from [Huggingface](https://huggingface.co/datasets/U4R/DocGenome-Testset-DocQA/tree/main ). If you want to evaluate your model on TestSet, please refer to [Evaluation](docs/Evaluation_README.md).
 - [2024/7/12]] We have supported dataset downloads from [Huggingface](https://huggingface.co/datasets/U4R/DocGenome/tree/main).

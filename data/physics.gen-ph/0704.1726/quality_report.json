@@ -1,0 +1,161 @@
+{
+    "num_pages": 13,
+    "num_columns": 1,
+    "category_quality": [
+        {
+            "category": "Title",
+            "geometry_count": 5,
+            "reading_count": 5,
+            "missing_rate": 0.0
+        },
+        {
+            "category": "Equation",
+            "geometry_count": 27,
+            "reading_count": 27,
+            "missing_rate": 0.0
+        },
+        {
+            "category": "Text-EQ",
+            "geometry_count": 40,
+            "reading_count": 40,
+            "missing_rate": 0.0
+        },
+        {
+            "category": "Text",
+            "geometry_count": 11,
+            "reading_count": 11,
+            "missing_rate": 0.0
+        },
+        {
+            "category": "Caption",
+            "geometry_count": 3,
+            "reading_count": 3,
+            "missing_rate": 0.0
+        },
+        {
+            "category": "PaperTitle",
+            "geometry_count": 1,
+            "reading_count": 1,
+            "missing_rate": 0.0
+        },
+        {
+            "category": "Abstract",
+            "geometry_count": 1,
+            "reading_count": 1,
+            "missing_rate": 0.0
+        },
+        {
+            "category": "Total",
+            "geometry_count": 88,
+            "reading_count": 88,
+            "missing_rate": 0.0
+        }
+    ],
+    "page_quality": [
+        {
+            "page": 0,
+            "num_blocks": 4,
+            "area": 1072448,
+            "overlap": 0,
+            "ratio": 0.0
+        },
+        {
+            "page": 12,
+            "num_blocks": 5,
+            "area": 1600000,
+            "overlap": 0,
+            "ratio": 0.0
+        },
+        {
+            "page": 13,
+            "num_blocks": 1,
+            "area": 1515520,
+            "overlap": 0,
+            "ratio": 0.0
+        },
+        {
+            "page": 1,
+            "num_blocks": 7,
+            "area": 1557120,
+            "overlap": 0,
+            "ratio": 0.0
+        },
+        {
+            "page": 2,
+            "num_blocks": 11,
+            "area": 1113472,
+            "overlap": 0,
+            "ratio": 0.0
+        },
+        {
+            "page": 3,
+            "num_blocks": 7,
+            "area": 1404480,
+            "overlap": 3072,
+            "ratio": 0.0021872863978127134
+        },
+        {
+            "page": 4,
+            "num_blocks": 10,
+            "area": 1320163.759823449,
+            "overlap": 0,
+            "ratio": 0.0
+        },
+        {
+            "page": 5,
+            "num_blocks": 6,
+            "area": 1145444.9636366847,
+            "overlap": 0,
+            "ratio": 0.0
+        },
+        {
+            "page": 6,
+            "num_blocks": 9,
+            "area": 1329856,
+            "overlap": 0,
+            "ratio": 0.0
+        },
+        {
+            "page": 7,
+            "num_blocks": 11,
+            "area": 1160448,
+            "overlap": 0,
+            "ratio": 0.0
+        },
+        {
+            "page": 8,
+            "num_blocks": 8,
+            "area": 1412224,
+            "overlap": 1728,
+            "ratio": 0.0012236019215082026
+        },
+        {
+            "page": 9,
+            "num_blocks": 11,
+            "area": 1267200,
+            "overlap": 0,
+            "ratio": 0.0
+        },
+        {
+            "page": 10,
+            "num_blocks": 6,
+            "area": 1135590.5243457467,
+            "overlap": 0,
+            "ratio": 0.0
+        },
+        {
+            "page": 11,
+            "num_blocks": 8,
+            "area": 1390208,
+            "overlap": 0,
+            "ratio": 0.0
+        },
+        {
+            "page": "total",
+            "num_blocks": 104,
+            "area": 18424175.247805882,
+            "overlap": 4800,
+            "ratio": 0.00026052726569519727
+        }
+    ]
+}

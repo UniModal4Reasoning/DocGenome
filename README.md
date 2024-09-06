@@ -13,7 +13,7 @@ We present DocGenome, a structured document dataset constructed by annotating 50
 
 
 ## Release
-- [2024/9/5] 🔥 Add the data quality rating for each structured document in DocGenome [here](https://huggingface.co/datasets/U4R/DocGenome/blob/main/tire_classification_train.json)
+- [2024/9/5] 🔥 Add the **data quality rating** for each structured document in DocGenome [here](https://huggingface.co/datasets/U4R/DocGenome/blob/main/tire_classification_train.json)
 - [2024/8/27] Add the tutorials on how to use the [DocGenome dataset](https://github.com/UniModal4Reasoning/DocGenome/blob/main/tutorials/tutorial.ipynb).
 - [2024/8/7] Add the detalied explanation about the different file structures in DocGenome.[Dataset_Details_README](Dataset_Details_README.md)
 - [2024/7/23] We have supported **TestSet** downloads from [Huggingface](https://huggingface.co/datasets/U4R/DocGenome-Testset-DocQA/tree/main ). If you want to evaluate your model on TestSet, please refer to [Evaluation](docs/Evaluation_README.md).
